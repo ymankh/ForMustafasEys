@@ -5,8 +5,7 @@ namespace ForMustafasEys.Server.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class mustafaaaaaaaaController : ControllerBase
+    public class AlgharibehController : ControllerBase
     {
-        ////mmmmmmm
     }
 }
