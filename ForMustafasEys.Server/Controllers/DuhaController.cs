@@ -7,5 +7,6 @@ namespace ForMustafasEys.Server.Controllers
     [ApiController]
     public class DuhaController : ControllerBase
     {
+        // Yaman is a man
     }
 }
