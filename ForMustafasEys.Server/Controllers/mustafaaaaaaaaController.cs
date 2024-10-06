@@ -7,5 +7,7 @@ namespace ForMustafasEys.Server.Controllers
     [ApiController]
     public class mustafaaaaaaaaController : ControllerBase
     {
+        // Yaman is a man
+
     }
 }
