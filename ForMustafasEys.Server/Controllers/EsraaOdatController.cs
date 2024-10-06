@@ -1,12 +1,11 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.Mvc;
 
 namespace ForMustafasEys.Server.Controllers
 {
-    public class EsraaOdatController : Controller
+    [Route("api/[controller]")]
+    [ApiController]
+    public class esraaodatController : ControllerBase
     {
-        public IActionResult Index()
-        {
-            return View();
-        }
     }
 }
