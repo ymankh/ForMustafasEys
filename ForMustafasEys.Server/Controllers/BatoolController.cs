@@ -8,5 +8,6 @@ namespace ForMustafasEys.Server.Controllers
     public class BatoolController : ControllerBase
     {
         // Yaman is a man
+        // hi there
     }
 }
