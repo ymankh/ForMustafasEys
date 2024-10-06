@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForMustafasEys.Server", "ForMustafasEys.Server\ForMustafasEys.Server.csproj", "{3637B3F3-D2EC-4A63-A1DA-0B69F8C6899A}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "formustafaseys.client", "formustafaseys.client\formustafaseys.client.esproj", "{68D4B173-453D-4F57-B982-2290B1F0B737}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3637B3F3-D2EC-4A63-A1DA-0B69F8C6899A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3637B3F3-D2EC-4A63-A1DA-0B69F8C6899A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3637B3F3-D2EC-4A63-A1DA-0B69F8C6899A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3637B3F3-D2EC-4A63-A1DA-0B69F8C6899A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68D4B173-453D-4F57-B982-2290B1F0B737}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68D4B173-453D-4F57-B982-2290B1F0B737}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68D4B173-453D-4F57-B982-2290B1F0B737}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{68D4B173-453D-4F57-B982-2290B1F0B737}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68D4B173-453D-4F57-B982-2290B1F0B737}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68D4B173-453D-4F57-B982-2290B1F0B737}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40287A1D-23F8-429D-BD61-D70FAACF98E3}
+	EndGlobalSection
+EndGlobal
