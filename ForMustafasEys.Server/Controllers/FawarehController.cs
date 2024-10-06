@@ -8,6 +8,9 @@ namespace ForMustafasEys.Server.Controllers
     public class FawarehController : ControllerBase
     {
         // Yaman is a man
+        // HADEEEEEEEEEEEEEL 
+        //ALZOUBI
 
+        // Allloooooooo
     }
 }

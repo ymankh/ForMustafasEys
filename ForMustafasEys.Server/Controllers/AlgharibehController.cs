@@ -8,6 +8,13 @@ namespace ForMustafasEys.Server.Controllers
     public class AlgharibehController : ControllerBase
     {
         // Alghribeh
+        // HADEEEEEEEEEEEEEL 
+        //ALZOUBI
+
+        // Allloooooooo
+
+
+
 
         // Alghribeh
     }
