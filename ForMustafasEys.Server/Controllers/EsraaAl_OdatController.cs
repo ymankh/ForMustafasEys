@@ -5,7 +5,7 @@ namespace ForMustafasEys.Server.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class esraaodatController : ControllerBase
+    public class EsraaAl_OdatController : ControllerBase
     {
     }
 }
