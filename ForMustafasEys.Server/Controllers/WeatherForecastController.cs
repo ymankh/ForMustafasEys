@@ -4,8 +4,11 @@ namespace ForMustafasEys.Server.Controllers
 {
     [ApiController]
     [Route("[controller]")]
+    //Esraa Al Odat
     public class WeatherForecastController : ControllerBase
     {
+        // Yaman is a man
+
         private static readonly string[] Summaries = new[]
         {
             "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"

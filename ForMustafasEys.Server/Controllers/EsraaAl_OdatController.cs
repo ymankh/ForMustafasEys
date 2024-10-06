@@ -7,5 +7,7 @@ namespace ForMustafasEys.Server.Controllers
     [ApiController]
     public class EsraaAl_OdatController : ControllerBase
     {
+        // Yaman is a man
+
     }
 }

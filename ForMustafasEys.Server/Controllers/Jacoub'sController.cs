@@ -7,7 +7,11 @@ namespace ForMustafasEys.Server.Controllers
     [ApiController]
     public class Jacoub_sController : ControllerBase
     {
+        // Yaman is a man
+        //Ahemd Yacoub
+
         public async Task<IActionResult> getname() {
+            //Ahmed Yacoub 
             return Ok();
         }
     }
