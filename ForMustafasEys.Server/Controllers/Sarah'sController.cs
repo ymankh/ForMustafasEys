@@ -6,6 +6,7 @@ namespace ForMustafasEys.Server.Controllers
     [ApiController]
     public class Sarah_sController : ControllerBase
     {
+        // Yaman is a man
 
     }
 }
