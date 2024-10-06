@@ -8,5 +8,6 @@ namespace ForMustafasEys.Server.Controllers
     public class DuhaController : ControllerBase
     {
         //duha odat
+        // Yaman is a man
     }
 }
