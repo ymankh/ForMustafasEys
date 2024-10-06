@@ -9,7 +9,10 @@ namespace ForMustafasEys.Server.Controllers
     {
         // Yaman is a man
         //Ahemd Yacoub
+        // HADEEEEEEEEEEEEEL 
+        //ALZOUBI
 
+        // Allloooooooo
         public async Task<IActionResult> getname() {
             //Ahmed Yacoub 
             return Ok();
