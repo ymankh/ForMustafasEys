@@ -7,5 +7,7 @@ namespace ForMustafasEys.Server.Controllers
     [ApiController]
     public class AlgharibehController : ControllerBase
     {
+        // Alghribeh
+
     }
 }
