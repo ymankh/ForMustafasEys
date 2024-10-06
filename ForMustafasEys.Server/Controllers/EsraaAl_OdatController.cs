@@ -8,7 +8,6 @@ namespace ForMustafasEys.Server.Controllers
     public class EsraaAl_OdatController : ControllerBase
     {
         //  Esraa Al_Odat 710
-
         // Yaman is a man
 
     }
