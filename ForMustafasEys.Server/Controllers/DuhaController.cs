@@ -7,6 +7,11 @@ namespace ForMustafasEys.Server.Controllers
     [ApiController]
     public class DuhaController : ControllerBase
     {
+        //duha odat
         // Yaman is a man
+        // HADEEEEEEEEEEEEEL 
+        //ALZOUBI
+
+        // Allloooooooo
     }
 }
